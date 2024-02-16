@@ -1,1 +1,1 @@
-# scammer-revenge
+jangan lupa jalanin command `npm install`
